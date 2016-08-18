@@ -1,5 +1,5 @@
 from datetime import datetime
-print "\n\nBI\n\n"
+print "\n\nB.I.A\n\n"
 now = datetime.now()
 print "YOU CAN WRITE YOUR REPORT\n\n"
 print (now)
