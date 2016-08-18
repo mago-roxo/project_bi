@@ -1,7 +1,7 @@
 from datetime import datetime
 print "\n\nB.I.A\n\n"
 now = datetime.now()
-print "YOU CAN WRITE YOUR REPORT\n\n"
+print "WRITE YOUR REPORT\n\n"
 print (now)
 report = raw_input("ENTER:\n")
 save = open(str(now), "w")
